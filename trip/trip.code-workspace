@@ -1,10 +1,12 @@
 {
 	"folders": [
 		{
-			"path": ".."
+			"name": "images",
+			"path": "../../../my-new-email_2311/images"
 		},
 		{
-			"path": "../../../my-new-email_2311/images"
+			"name": "trip",
+			"path": ".."
 		}
 	],
 	"settings": {}
